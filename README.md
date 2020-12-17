@@ -1,7 +1,7 @@
 
 ## About Project
 In this project I developed an example web page, using some technologies, among them: NextJs,
-Tailwind CSS, Framer Motion and React.
+Tailwind CSS, Framer Motion and React
 
 ## Autor
 
